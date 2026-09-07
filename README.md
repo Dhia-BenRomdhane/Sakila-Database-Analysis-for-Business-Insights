@@ -18,7 +18,6 @@ This project explores customer behavior, movie popularity, and store performance
 - Multi-table joins across `film`, `inventory`, `rental`, `customer`, `category`, `payment`, and `store`
 - Aggregate functions (`COUNT`, `SUM`) with `GROUP BY`
 - Window functions (`ROW_NUMBER() OVER (PARTITION BY ...)`) to rank results within groups
-- Nested/derived-table queries to filter on computed rankings
 - SQL views to streamline access to relevant results
 
 ## Files
